@@ -1,4 +1,4 @@
-# Portfolio Projects
+# Lilith Holland's Portfolio Projects
 ## Master's Capstone
 ### [Predictive Modeling of Weather Station Data](https://lilith-mahalia-holland.github.io/IDC6940_Graph_Neural_Network/)
 **Project Overview**
