@@ -6,7 +6,7 @@
 This Master's capstone project investigates whether a Graph Neural Network (GNN) can outperform a univariate time-series regression model for short-term weather forecasting. Using real-world weather station data from southwestern Kansas, we compare a spatiotemporal GNN against a traditional regression baseline for next-step temperature prediction.
 
 ## Current Projects
-### [Distributed LLM Directed Graph Orchestration](https://github.com/Lilith-Mahalia-Holland/Distributed_LLM_Directed_Graph_Orchestration)
+### Distributed LLM Directed Graph Orchestration
 **Project Overview**
 
 The goal of this project is to design and build an asynchronous, graph-based LLM orchestration pipeline inspired by [LangChain](https://www.langchain.com/). Developed as a practical implementation of microservice-driven architecture, the project features a decoupled system consisting of a TypeScript front-end, a FastAPI back-end, and a Taskiq distributed task broker.
