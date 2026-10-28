@@ -4,7 +4,7 @@ date: 2021-09-20
 categories:
   - school
   - usf
-  - lis4273
+  - lis-4273
 tags:
   - assignment
   - statistics

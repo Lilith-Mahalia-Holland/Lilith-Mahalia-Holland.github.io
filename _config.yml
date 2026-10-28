@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   A simple website to house project write-ups and information.
 # twitter_username: username
 github_username: Lilith-Mahalia-Holland
-minimal_mistakes_skin: default
+minimal_mistakes_skin: catppuccin_mocha
 search: true
 
 # Build settings
@@ -58,14 +58,14 @@ plugins:
 author:
   name   : "Lilith Holland"
   avatar : # "/assets/images/bio-photo.jpg"
-  bio    : "A trained data scientist with a range of expertise that encompasses the entire data transformation lifecycle. Holding a Master's Degree in Data Science from the University of West Florida."
+  bio    : "Data Scientist with a range of expertise that encompasses the entire data transformation lifecycle. Grounded by a Master's Degree in Data Science from the University of West Florida, I pair strong technical training with a practical approach."
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Lilith-Mahalia-Holland"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "www.linkedin.com/in/lilith-holland"
+      url: "https://www.linkedin.com/in/lilith-holland"
 
 footer:
   links:
@@ -74,7 +74,7 @@ footer:
       url: "https://github.com/Lilith-Mahalia-Holland"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "www.linkedin.com/in/lilith-holland"
+      url: "https://www.linkedin.com/in/lilith-holland"
 
 defaults:
   # _posts
@@ -89,6 +89,7 @@ defaults:
       share: true
       related: true
       toc: true
+      toc_sticky: true
   # _pages
   - scope:
       path: "_pages"
