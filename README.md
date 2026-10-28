@@ -1,27 +1,24 @@
-# Minimal Mistakes remote theme starter
+# Personal Project Write-ups & Portfolio
 
-Click [**Use this template**](https://github.com/mmistakes/mm-github-pages-starter/generate) button above for the quickest method of getting started with the [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes).
+Welcome to the repository for my personal portfolio and technical blog, hosted via GitHub Pages. This site serves as a 
+central hub to showcase my data science projects, engineering work, and detailed technical write-ups.
 
-Contains basic configuration to get you a site with:
+**[View the Live Website](https://lilith-mahalia-holland.github.io/)**
 
-- Sample posts.
-- Sample top navigation.
-- Sample author sidebar with social links.
-- Sample footer links.
-- Paginated home page.
-- Archive pages for posts grouped by year, category, and tag.
-- Sample about page.
-- Sample 404 page.
-- Site wide search.
+## Purpose & Content
+This website is built to document my technical journey, share deep-dives into complex problems, and present 
+production-ready projects. Generally I am not one to blog or write regularly, however, I do generally try my best 
+to document my work whenever I can.
 
-Replace sample content with your own and [configure as necessary](https://mmistakes.github.io/minimal-mistakes/docs/configuration/).
+* **Project Portfolio:** Curated case studies demonstrating end-to-end data pipelines, modeling, and software engineering.
+* **Technical Write-ups:** Detailed articles breaking down specific frameworks, algorithms, architectural decisions, and optimization strategies.
+* **Professional Journey:** My background, core technical competencies, and contact information.
+
+## Built With
+* **Framework:** Jekyll ([Minimal Mistakes theme](https://github.com/mmistakes/minimal-mistakes))
+* **Hosting:** Github Pages
+* **Environment:** Ruby & Bundler
 
 ---
 
-## Troubleshooting
-
-If you have a question about using Jekyll, start a discussion on the [Jekyll Forum](https://talk.jekyllrb.com/) or [StackOverflow](https://stackoverflow.com/questions/tagged/jekyll). Other resources:
-
-- [Ruby 101](https://jekyllrb.com/docs/ruby-101/)
-- [Setting up a Jekyll site with GitHub Pages](https://jekyllrb.com/docs/github-pages/)
-- [Configuring GitHub Metadata](https://github.com/jekyll/github-metadata/blob/master/docs/configuration.md#configuration) to work properly when developing locally and avoid `No GitHub API authentication could be found. Some fields may be missing or have incorrect data.` warnings.
+*Feel free to explore the code or reach out if you have any questions about the implementations in my write-ups*

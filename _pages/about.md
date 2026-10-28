@@ -1,8 +1,24 @@
 ---
 permalink: /about/
 title: "About"
+author_profile: false
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+## Hello, I'm Lilith Holland
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+I am a Data Scientist & Engineer who enjoys learning and building systems around complex data structures.
+
+- My Github is located at **[Github](https://github.com/Lilith-Mahalia-Holland)**
+- I am currently focusing on revamping my github pages website and then finishing a rewrite of my NLP research gap tool.
+- How to reach me: [hollandlilith23@gmail.com](mailto:hollandlilith23@gmail.com)
+
+---
+
+### Technical Tools
+
+| Category             | Tool/Technology                                                                                       |
+|:---------------------|:------------------------------------------------------------------------------------------------------|
+| **Languages**        | Python, SQL (MS SQL SERVER), R                                                                        |
+| **Dev. Tools**       | Git, Docker, Power BI, PyCharm, AWS, Neo4j                                                            |
+| **Libraries**        | Pandas, Polars, Scikit-Learn, Tensorflow/Keras, PyTorch, NumPy, Matplotlib, SciPy, FastAPI , Pydantic |
+| **Machine Learning** | ETL/ELT Pipelines, Llama.cpp, TEI                                                                     |
