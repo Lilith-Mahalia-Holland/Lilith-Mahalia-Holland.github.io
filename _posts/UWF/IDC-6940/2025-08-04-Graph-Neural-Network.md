@@ -9,9 +9,10 @@ tags:
   - capstone
   - deep-learning
   - fall-2025
-excerpt: A starter assignment for calculating the mean of a vector in R.
+excerpt: Masters Capstone, Deep Learning weather forecasting.
 mathjax: true
 ---
+# [Project GitHub](https://github.com/Lilith-Mahalia-Holland/IDC6940_Graph_Neural_Network)
 
 ## Introduction
 

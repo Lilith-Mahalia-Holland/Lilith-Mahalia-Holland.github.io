@@ -13,10 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Project Write-ups & Portfolio
+title: Data Science & Engineering Portfolio
 email: hollandlilith23@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  A simple website to house project write-ups and information.
+  A collection of technical write-ups and documentation covering Data Science and Engineering projects.
 # twitter_username: username
 github_username: Lilith-Mahalia-Holland
 minimal_mistakes_skin: catppuccin_mocha
@@ -58,8 +58,11 @@ plugins:
 author:
   name   : "Lilith Holland"
   avatar : # "/assets/images/bio-photo.jpg"
-  bio    : "Data Scientist with a range of expertise that encompasses the entire data transformation lifecycle. Grounded by a Master's Degree in Data Science from the University of West Florida, I pair strong technical training with a practical approach."
+  bio    : "I am a Data Scientist with strong engineering foundations, focused on building pipelines and systems around complex, unstructured data."
   links:
+    - label: "Email"
+      icon: "fas fa-fw fa-square-envelope"
+      url: "mailto:hollandlilith23@gmail.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Lilith-Mahalia-Holland"
@@ -69,6 +72,9 @@ author:
 
 footer:
   links:
+    - label: "Email"
+      icon: "fas fa-fw fa-square-envelope"
+      url: "mailto:hollandlilith23@gmail.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Lilith-Mahalia-Holland"

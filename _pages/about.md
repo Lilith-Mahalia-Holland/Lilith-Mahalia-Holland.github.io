@@ -4,15 +4,19 @@ title: "About"
 author_profile: false
 ---
 
-## Hello, I'm Lilith Holland
+### Hello, I'm Lilith Holland
 
-I am a Data Scientist & Engineer who enjoys learning and building systems around complex data structures.
+I am a Data Scientist with strong engineering foundations, focused on building pipelines and systems around complex,
+unstructured data. I focus on the entire data transformation lifecycle from initial ingestion and parsing to structuring
+datasets for modeling and analytical insights. Driven by a technical interest in complex data structures and processing
+systems, my approach emphasizes engineering scalable, reproducible infrastructure.
 
-- My Github is located at **[Github](https://github.com/Lilith-Mahalia-Holland)**
-- I am currently focusing on revamping my github pages website and then finishing a rewrite of my NLP research gap tool.
-- How to reach me: [hollandlilith23@gmail.com](mailto:hollandlilith23@gmail.com)
+### Active Projects & Contact
 
----
+- **Active Development:** Updating GitHub pages website and rewriting NLP research gap tool.
+- **Github:** <https://github.com/Lilith-Mahalia-Holland>
+- **Email:** [hollandlilith23@gmail.com](mailto:hollandlilith23@gmail.com)
+
 
 ### Technical Tools
 
